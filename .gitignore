@@ -1,0 +1,18 @@
+# Ignorar archivos de compilación
+*.class
+*.jar
+*.war
+
+# Ignorar directorios de salida
+target/
+bin/
+out/
+build/
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de caché
+.DS_Store
+Thumbs.db
